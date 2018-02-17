@@ -5,6 +5,14 @@ Ska du plugga som Erasmus Student och vill träffa tjejer på IT? Känner du nå
 2. Addera/ändra
 3. Pull!
 
+# Norway
+
+| Name  | Description |
+| ------------- | ------------- |
+| [Jenteprosjektet ADA](https://www.ntnu.no/jenter)  | Karierrenettverk ved NTNU i Trondheim, med fokus på rekruttering av kvinner til IT-studier  |
+| [Jenter og teknologi](https://www.nho.no/Prosjekter-og-programmer/jenter-og-teknologi/)  | Nettverk for jenter som studerer eller jobber innen teknologi |
+| [ODA-nettverk](https://odanettverk.no/)  | Nettverk for kvinner i tech |
+
 # Spanien
 
 | Name  | Description |
